@@ -4,16 +4,16 @@ const CONFIG = {
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'Vẫn là vào tym a 😘 ',
+    btnIntro: 'vào tym Adi',
     title: 'Sol có yêu Adi khum 😙',
     desc: 'Phải chăng em đã say ngay từ lúc đầu gặp anh? ',
     btnYes: 'Bé yêu mỗi anh',
     btnNo: 'Không, Mơ đi anh trai à :3',
-    question:'Sao bé kại yêu anh?',
+    question:'Sao bé lại yêu anh?',
     btnReply: 'Gửi cho anh <3',
     reply: 'Vì anh xinh...🥰  .Bé yêu yêu yêu anh thật nhiều, nhiều nắm <33333333',
     mess: 'Anh biết mà 🥰. nhưng kệ em cơ 😘😘',
     messDesc: 'Bé chậpp của anh, tới với anh nào😙',
-    btnAccept: 'Tới liền nè anh <3',
+    btnAccept: 'Bay tới anh liền <3',
     messLink: 'https://www.facebook.com/messages/e2ee/t/7555342534480212'
 }
