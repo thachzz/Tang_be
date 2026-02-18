@@ -1,4 +1,4 @@
-const CONFIG = {
+}const CONFIG = {
     introTitle: 'Bé Sol ơi!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Vì anh xinh...🥰  .Bé yêu yêu yêu anh thật nhiều, nhiều nắm <33333333',
     mess: 'Anh biết mà 🥰. nhưng kệ em cơ 😘😘',
-    messDesc: 'Bé chậpp của anh, tới với anh nào😙',',
+    messDesc: 'Bé chậpp của anh, tới với anh nào😙',
     btnAccept: 'Tới liền nè anh <3',
     messLink: 'https://www.facebook.com/messages/e2ee/t/7555342534480212',
 }
